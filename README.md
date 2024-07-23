@@ -1,5 +1,3 @@
-# Create README.md file with the provided content
-readme_content = """
 # Disease Symptom Prediction and Analysis
 
 This project aims to predict diseases based on symptoms using various machine learning classifiers and analyze the dataset to understand the distribution of symptoms and diseases.
